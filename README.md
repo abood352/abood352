@@ -1,6 +1,6 @@
 # Hi, I'm Abdulhadi Almohammad 👋
 
-**Front-end Developer & UI/UX Designer**: React · TypeScript · Figma  
+**Front-end Developer & UI/UX Designer**: React · TypeScript · Figma<br>
 📍 Syria · 🗣 Arabic · English
 
 I design products in Figma, then build them myself in React and TypeScript, so the design ships as drawn: responsive, fast and accessible. Arabic-first and RTL by default, with real loading, empty and error states, and a service layer that switches from a mock server to a real backend with a single variable.
@@ -20,8 +20,8 @@ I design products in Figma, then build them myself in React and TypeScript, so t
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**UX:** UX research · prototyping · design systems (shared tokens and components between Figma and code) · accessibility (keyboard and screen-reader support)  
-**Front-end architecture:** one typed service layer per app · in-browser mock server · hash routing · i18n (Arabic / English) · light and dark themes · build-time prerendering  
+**UX:** UX research · prototyping · design systems (shared tokens and components between Figma and code) · accessibility (keyboard and screen-reader support)<br>
+**Front-end architecture:** one typed service layer per app · in-browser mock server · hash routing · i18n (Arabic / English) · light and dark themes · build-time prerendering<br>
 **Arabic-first:** RTL layouts · Arabic search that ignores hamza and taa marbuta · Hijri dates · Saudi payment flows (mada, Apple Pay, BNPL)
 
 ## 💼 Live Apps (2026)
